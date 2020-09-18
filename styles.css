@@ -1,0 +1,657 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1600px;
+	 height: 1266px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 1243px;
+	 z-index:1;
+} 
+
+ #block 
+{ 
+	 left: -147px; 
+	 top: 977px; 
+	 position: absolute; 
+	 width: 2030px;
+	 height: 531px;
+	 z-index:2;
+} 
+
+ #paypalverified6af1f7 
+{ 
+	 left: 1188px; 
+	 top: 1046px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 156px;
+	 z-index:3;
+} 
+
+ #5881254666supportyou 
+{ 
+	 left: 858px; 
+	 top: 1114px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 85px;
+	 z-index:4;
+} 
+
+ #title 
+{ 
+	 left: 808px; 
+	 top: 1037px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 47px;
+	 z-index:5;
+} 
+
+ #CONTACTUS 
+{ 
+	 left: 890px; 
+	 top: 1055px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 13px;
+	 z-index:6;
+} 
+
+ #LoremipsumDolorsitam 
+{ 
+	 left: 562px; 
+	 top: 1117px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 85px;
+	 z-index:7;
+} 
+
+ #title_0 
+{ 
+	 left: 524px; 
+	 top: 1037px; 
+	 position: absolute; 
+	 width: 267px;
+	 height: 47px;
+	 z-index:8;
+} 
+
+ #OURSERVICES 
+{ 
+	 left: 546px; 
+	 top: 1055px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 13px;
+	 z-index:9;
+} 
+
+ #arrow 
+{ 
+	 left: 545px; 
+	 top: 1118px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 8px;
+	 z-index:10;
+} 
+
+ #arrow_0 
+{ 
+	 left: 545px; 
+	 top: 1141px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 8px;
+	 z-index:11;
+} 
+
+ #arrow_1 
+{ 
+	 left: 545px; 
+	 top: 1166px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 8px;
+	 z-index:12;
+} 
+
+ #arrow_2 
+{ 
+	 left: 545px; 
+	 top: 1190px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 8px;
+	 z-index:13;
+} 
+
+ #title_1 
+{ 
+	 left: 238px; 
+	 top: 1037px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 47px;
+	 z-index:14;
+} 
+
+ #AboutusCareerOurwork 
+{ 
+	 left: 278px; 
+	 top: 1116px; 
+	 position: absolute; 
+	 width: 147px;
+	 height: 83px;
+	 z-index:15;
+} 
+
+ #COMPANY 
+{ 
+	 left: 262px; 
+	 top: 1055px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 13px;
+	 z-index:16;
+} 
+
+ #arrow_3 
+{ 
+	 left: 261px; 
+	 top: 1118px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 8px;
+	 z-index:17;
+} 
+
+ #arrow_4 
+{ 
+	 left: 261px; 
+	 top: 1141px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 8px;
+	 z-index:18;
+} 
+
+ #arrow_5 
+{ 
+	 left: 261px; 
+	 top: 1166px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 8px;
+	 z-index:19;
+} 
+
+ #arrow_6 
+{ 
+	 left: 261px; 
+	 top: 1190px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 8px;
+	 z-index:20;
+} 
+
+ #blue 
+{ 
+	 left: -1px; 
+	 top: 858px; 
+	 position: absolute; 
+	 width: 1602px;
+	 height: 123px;
+	 z-index:21;
+} 
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 238px; 
+	 top: 906px; 
+	 position: absolute; 
+	 width: 1053px;
+	 height: 28px;
+	 z-index:22;
+} 
+
+ #block_0 
+{ 
+	 left: -1px; 
+	 top: 98px; 
+	 position: absolute; 
+	 width: 1602px;
+	 height: 303px;
+	 z-index:23;
+} 
+
+ #InnovationforExcelle 
+{ 
+	 left: 244px; 
+	 top: 154px; 
+	 position: absolute; 
+	 width: 442px;
+	 height: 32px;
+	 z-index:24;
+} 
+
+ #SurfacePro4image5HER 
+{ 
+	 left: 870px; 
+	 top: 115px; 
+	 position: absolute; 
+	 width: 496px;
+	 height: 271px;
+	 z-index:25;
+} 
+
+ #Rectangle1 
+{ 
+	 left: 240px; 
+	 top: 267px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 58px;
+	 z-index:26;
+} 
+
+ #ReadMore 
+{ 
+	 left: 272px; 
+	 top: 288px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 15px;
+	 z-index:27;
+} 
+
+ #consecteturadipiscin 
+{ 
+	 left: 242px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 371px;
+	 height: 27px;
+	 z-index:28;
+} 
+
+ #gray 
+{ 
+	 left: -1px; 
+	 top: 398px; 
+	 position: absolute; 
+	 width: 1602px;
+	 height: 463px;
+	 z-index:29;
+} 
+
+ #block_1 
+{ 
+	 left: 238px; 
+	 top: 504px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 303px;
+	 z-index:30;
+} 
+
+ #title_2 
+{ 
+	 left: 238px; 
+	 top: 450px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 57px;
+	 z-index:31;
+} 
+
+ #Loremipsum 
+{ 
+	 left: 299px; 
+	 top: 473px; 
+	 position: absolute; 
+	 width: 147px;
+	 height: 16px;
+	 z-index:32;
+} 
+
+ #Aeneanconsequatattor 
+{ 
+	 left: 259px; 
+	 top: 685px; 
+	 position: absolute; 
+	 width: 228px;
+	 height: 46px;
+	 z-index:33;
+} 
+
+ #moreinfo 
+{ 
+	 left: 342px; 
+	 top: 764px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 10px;
+	 z-index:34;
+} 
+
+ #image 
+{ 
+	 left: 311px; 
+	 top: 535px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 123px;
+	 z-index:35;
+} 
+
+ #block_2 
+{ 
+	 left: 524px; 
+	 top: 504px; 
+	 position: absolute; 
+	 width: 267px;
+	 height: 303px;
+	 z-index:36;
+} 
+
+ #title_3 
+{ 
+	 left: 524px; 
+	 top: 450px; 
+	 position: absolute; 
+	 width: 267px;
+	 height: 57px;
+	 z-index:37;
+} 
+
+ #Dolorsitamet 
+{ 
+	 left: 569px; 
+	 top: 473px; 
+	 position: absolute; 
+	 width: 177px;
+	 height: 16px;
+	 z-index:38;
+} 
+
+ #Aeneanconsequatattor_0 
+{ 
+	 left: 544px; 
+	 top: 685px; 
+	 position: absolute; 
+	 width: 228px;
+	 height: 46px;
+	 z-index:39;
+} 
+
+ #moreinfo_0 
+{ 
+	 left: 627px; 
+	 top: 764px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 10px;
+	 z-index:40;
+} 
+
+ #music 
+{ 
+	 left: 596px; 
+	 top: 535px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 123px;
+	 z-index:41;
+} 
+
+ #block_3 
+{ 
+	 left: 808px; 
+	 top: 504px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 303px;
+	 z-index:42;
+} 
+
+ #title_4 
+{ 
+	 left: 808px; 
+	 top: 450px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 57px;
+	 z-index:43;
+} 
+
+ #Nullaminultricies 
+{ 
+	 left: 827px; 
+	 top: 473px; 
+	 position: absolute; 
+	 width: 232px;
+	 height: 16px;
+	 z-index:44;
+} 
+
+ #Aeneanconsequatattor_1 
+{ 
+	 left: 829px; 
+	 top: 685px; 
+	 position: absolute; 
+	 width: 228px;
+	 height: 46px;
+	 z-index:45;
+} 
+
+ #moreinfo_1 
+{ 
+	 left: 912px; 
+	 top: 764px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 10px;
+	 z-index:46;
+} 
+
+ #record 
+{ 
+	 left: 881px; 
+	 top: 535px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 123px;
+	 z-index:47;
+} 
+
+ #block_4 
+{ 
+	 left: 1093px; 
+	 top: 504px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 303px;
+	 z-index:48;
+} 
+
+ #title_5 
+{ 
+	 left: 1093px; 
+	 top: 450px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 57px;
+	 z-index:49;
+} 
+
+ #Vestibulumatsapie 
+{ 
+	 left: 1111px; 
+	 top: 473px; 
+	 position: absolute; 
+	 width: 233px;
+	 height: 16px;
+	 z-index:50;
+} 
+
+ #Aeneanconsequatattor_2 
+{ 
+	 left: 1114px; 
+	 top: 685px; 
+	 position: absolute; 
+	 width: 228px;
+	 height: 46px;
+	 z-index:51;
+} 
+
+ #moreinfo_2 
+{ 
+	 left: 1197px; 
+	 top: 764px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 10px;
+	 z-index:52;
+} 
+
+ #video 
+{ 
+	 left: 1166px; 
+	 top: 535px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 123px;
+	 z-index:53;
+} 
+
+ #block_5 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1608px;
+	 height: 102px;
+	 z-index:54;
+} 
+
+ #Zaoblenobdlnk1 
+{ 
+	 left: 632px; 
+	 top: 28px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 51px;
+	 z-index:55;
+} 
+
+ #Home 
+{ 
+	 left: 656px; 
+	 top: 46px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 10px;
+	 z-index:56;
+} 
+
+ #Ourservices 
+{ 
+	 left: 748px; 
+	 top: 46px; 
+	 position: absolute; 
+	 width: 81px;
+	 height: 11px;
+	 z-index:57;
+} 
+
+ #Career 
+{ 
+	 left: 880px; 
+	 top: 47px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 10px;
+	 z-index:58;
+} 
+
+ #Contactus 
+{ 
+	 left: 973px; 
+	 top: 47px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 10px;
+	 z-index:59;
+} 
+
+ #input 
+{ 
+	 left: 1100px; 
+	 top: 27px; 
+	 position: absolute; 
+	 width: 263px;
+	 height: 43px;
+	 z-index:60;
+} 
+
+ #searchterm 
+{ 
+	 left: 1113px; 
+	 top: 45px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 9px;
+	 z-index:61;
+} 
+
+ #searchicon 
+{ 
+	 left: 1329px; 
+	 top: 41px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 16px;
+	 z-index:62;
+} 
+
+ #LOGO 
+{ 
+	 left: 346px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 70px;
+	 height: 28px;
+	 z-index:63;
+} 
+
+ #Layer2 
+{ 
+	 left: 243px; 
+	 top: 20px; 
+	 position: absolute; 
+	 width: 90px;
+	 height: 64px;
+	 z-index:64;
+} 
